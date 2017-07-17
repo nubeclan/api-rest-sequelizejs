@@ -27,8 +27,8 @@ backend-sellador
 
 #### Para Instalar backend-sellador
 
-Para correr el backend-sellador leer el manual de instalación [INSTALL.md]()
+Para correr el backend-sellador leer el manual de instalación [INSTALL.md](https://github.com/NubeAndoBo/api-rest-sequelizejs/blob/master/INSTALL.md)
 
 #### Servicios API REST
 
-Para ver como llamar a los servicios revisar el archivo: [APIREST.md]()
+Para ver como llamar a los servicios revisar el archivo: [APIREST.md](https://github.com/NubeAndoBo/api-rest-sequelizejs/blob/master/APIREST.md)
