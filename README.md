@@ -1,4 +1,4 @@
-# backend-sellador
+# api-rest-sequelizejs
 
 * una Apí REST, que añadira la funcionalidad de control de accesos, carga de usuarios, reportes, registro de sellos emitidos
 * la aplicación api-rest-sequelizejs trabaja con una base de datos mysql
@@ -11,7 +11,7 @@
 ## Estructura de directorios
 
 ```
-backend-sellador    
+api-rest-sequelizejs    
 │
 +───config/
 |      │   
@@ -25,9 +25,9 @@ backend-sellador
 |
 ```
 
-#### Para Instalar backend-sellador
+#### Para Instalar api-rest-sequelizejs
 
-Para correr el backend-sellador leer el manual de instalación [INSTALL.md](https://github.com/NubeAndoBo/api-rest-sequelizejs/blob/master/INSTALL.md)
+Para correr el api-rest-sequelizejs leer el manual de instalación [INSTALL.md](https://github.com/NubeAndoBo/api-rest-sequelizejs/blob/master/INSTALL.md)
 
 #### Servicios API REST
 

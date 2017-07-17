@@ -1,8 +1,8 @@
-# Inslación de backend-sellador
+# Inslación de api-rest-sequelizejs
 
 Esta es una guía para hacer correr la aplicación sellador-web
 
-## Prerequisitos para el backend-sellador
+## Prerequisitos para el api-rest-sequelizejs
 
 - [NodeJS](https://nodejs.org/en/)
 
@@ -12,22 +12,22 @@ Tener instalado una versión actualizado de nodejs (>5.3)
 
 Tener instalado MySQL, crear la base de datos 'admtsa' y ejecutar el script sellador.sql del Repositorio
 
-## Instalación del backend-sellador
+## Instalación del api-rest-sequelizejs
 
 ### Bajar el Repositorio
 
-- [Repositorio sellador-web](https://gitlab.geo.gob.bo/adsib/sellador-web)
+- [Repositorio api-rest-sequelizejs](https://github.com/NubeAndoBo/api-rest-sequelizejs)
 
 ```
-$ git clone git@gitlab.geo.gob.bo:adsib/sellador-web.git
+$ git clone https://github.com/NubeAndoBo/api-rest-sequelizejs.git
 ```
 
-Una vez descargado editamos el archivo sellador-web/backend-sellador/config/connections.js con los datos de conexión mysql de nuestra base de datos
+Una vez descargado editamos el archivo sellador-web/api-rest-sequelizejs/config/connections.js con los datos de conexión mysql de nuestra base de datos
 
-### Nos ubicamos dentro del backend-sellador
+### Nos ubicamos dentro del api-rest-sequelizejs
 
 ```
-$ cd sellador-web/backend-sellador
+$ cd api-rest-sequelizejs
 ```
 
 ### Instalamos las dependencias y libreria
