@@ -1,7 +1,7 @@
 {
     "name": "api-rest-sequelizejs",
     "version": "1.0.0",
-    "description": "api-rest-sequelizejs - ADSIB",
+    "description": "api-rest-sequelizejs - NubeAndo.COM",
     "main": "server.js",
     "dependencies": {
         "express": "~4.0.0",
