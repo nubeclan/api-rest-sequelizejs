@@ -1,7 +1,7 @@
 {
-    "name": "backend-sellador",
+    "name": "api-rest-sequelizejs",
     "version": "1.0.0",
-    "description": "backend-sellador - ADSIB",
+    "description": "api-rest-sequelizejs - ADSIB",
     "main": "server.js",
     "dependencies": {
         "express": "~4.0.0",
